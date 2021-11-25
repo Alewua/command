@@ -1,5 +1,5 @@
 # Discord Command Handler
-> Discord Botlarının Komutlarını Kolaylıkla oluşturmanıza yarıyan bir [typescript](https://npmjs.com/package/typescript) ile yazılmış bir bot
+> Discord Botlarının Komutlarını Kolaylıkla oluşturmanıza yarıyan bir [discord.js](https://npmjs.com/package/discord.js) ile yazılmış bir bot
 
 # Başlayalım!
 Forklamak için
