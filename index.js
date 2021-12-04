@@ -23,7 +23,7 @@ for (const file of commandFiles) {
 client.once('ready', () => {
 
     console.log(chalk.bgGreenBright.black("[" + client.user.username + "]"), "Bot açıldı");
-    client.user.setActivity('Made By Alewua with 💖', {
+    client.user.setActivity('Made By Tirrek with 💖', {
         type: "PLAYING"
     });
 });
