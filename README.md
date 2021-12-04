@@ -4,7 +4,7 @@
 # Başlayalım!
 Forklamak için
 - 1). Buraya [Tıkla](https://github.com/Alewua/command)
-- 2). Terminal uygulamanı aç ve `git clone https://github.com/Alewua/command.git`
+- 2). Terminal uygulamanı aç ve `git clone https://github.com/isirmacokaciyo/command.git`
 
 Diğer paketleri yüklemek için
 - `npm run build`
